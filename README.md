@@ -16,8 +16,8 @@ The project was a part of a school course for mobile software development. The i
 quick weather information by the GPS or by previously saved cities. 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/wa1cw.png)
+![Example screenshot](./img/wa25df.png)
 
 ## Technologies
 * Swift - version 4
