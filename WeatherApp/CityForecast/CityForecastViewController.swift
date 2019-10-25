@@ -108,7 +108,7 @@ class CityForecastViewController: UIViewController, UITableViewDelegate, UITable
             if (error != nil) {
                 print("Reverse geocoder failed with an error")
             } else if (placemarks!.count > 0 && self.isCityUnique(cityName: placemarks![0].locality!)) {
-                let newCity = City(name: placemarks![0].locality!, latitude: self.weatherDataController!.latitude!, longitude: self.weatherDataController!.longitude!)
+                let newCity = City(name: placemarks![0].locality!, latitude: self.currentLocation!.coordinate.latitude, longitude: self.currentLocation!.coordinate.longitude)
                 self.cities.append(newCity)
                 self.citiesTableView.reloadData()
                 
