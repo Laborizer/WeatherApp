@@ -25,10 +25,10 @@ quick weather information by the GPS or by previously saved cities.
 * OpenWeatherAPI - version 2.5
 
 ## Setup
-For now to install:
+To install: 
 
 1. Download the project.
-2. Open the project in XCode
+2. Open and import the project in XCode
 3. Run the project using XCode with either an emulator or a real device.
 
 ## Features
@@ -40,9 +40,10 @@ To-do list:
 * Implement adding cities
 
 ## Status
-Project is: _no longer continue_
+Project is: _no longer continued_
+
 This project was a part of a school course, and as the grading is finished, so is the project despite it
 not being feature complete.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@Laborizer] - feel free to contact me!
