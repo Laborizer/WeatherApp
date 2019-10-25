@@ -21,6 +21,7 @@
 		C727FD1D234DB28700C9CE3A /* CityForecastView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C727FD1C234DB28700C9CE3A /* CityForecastView.xib */; };
 		C727FD20234DBFFF00C9CE3A /* WeatherDataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C727FD1F234DBFFF00C9CE3A /* WeatherDataController.swift */; };
 		C727FD22234DEE8F00C9CE3A /* WeatherDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C727FD21234DEE8F00C9CE3A /* WeatherDataModel.swift */; };
+		C7B927802362F8C50055255D /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = C7B9277F2362F8C50055255D /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		C727FD1C234DB28700C9CE3A /* CityForecastView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CityForecastView.xib; sourceTree = "<group>"; };
 		C727FD1F234DBFFF00C9CE3A /* WeatherDataController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDataController.swift; sourceTree = "<group>"; };
 		C727FD21234DEE8F00C9CE3A /* WeatherDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDataModel.swift; sourceTree = "<group>"; };
+		C7B9277F2362F8C50055255D /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 		C727FCEF234DB17C00C9CE3A /* WeatherApp */ = {
 			isa = PBXGroup;
 			children = (
+				C7B9277F2362F8C50055255D /* icon.png */,
 				C727FCF0234DB17C00C9CE3A /* AppDelegate.swift */,
 				C727FCF2234DB17C00C9CE3A /* ViewController.swift */,
 				C727FCF4234DB17C00C9CE3A /* Main.storyboard */,
@@ -226,6 +229,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C727FCFB234DB18D00C9CE3A /* LaunchScreen.storyboard in Resources */,
+				C7B927802362F8C50055255D /* icon.png in Resources */,
 				C727FD13234DB1F600C9CE3A /* CurrentWeatherView.xib in Resources */,
 				C727FD1D234DB28700C9CE3A /* CityForecastView.xib in Resources */,
 				C727FCF8234DB18D00C9CE3A /* Assets.xcassets in Resources */,
